@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Resim
 
-![Tai Dagı](https://upload.wikimedia.org/wikA8.jpg)
+![Ornek](https://i.hizliresim.com/noxj3gt.jpg)
